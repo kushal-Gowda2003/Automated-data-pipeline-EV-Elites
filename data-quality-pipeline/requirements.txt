@@ -1,0 +1,9 @@
+pandas
+numpy<2.4
+scikit-learn
+scipy
+matplotlib
+seaborn
+ydata-profiling
+streamlit
+setuptools<81
